@@ -349,6 +349,21 @@
   ],
   "projects": [
     {
+      "name": "Homebridge Ultimate Govee Plugin",
+      "description": "Homebridge plugin to support all features of Govee devices.",
+      "highlights": [
+        "Imports device scenes from Govee API",
+        "Supports individual control of RGBIC sections",
+        "Full support for Air Purifiers, Aroma Diffusers, RGB lights and RGBIC lights"
+      ],
+      "keywords": [
+        "HomeKit",
+        "Homebridge",
+        "Govee",
+      ],
+      "url": "https://github.com/constructorfleet/homebridge-ultimate-govee"
+    },
+    {
       "name": "ConstructorFleet",
       "description": "List of Ansible, automation and other projects developed with my spouse",
       "highlights": [
@@ -413,6 +428,35 @@
         "Documentation"
       ],
       "url": "https://github.com/constructorfleet/Deepthought-Schema"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Develop Denver",
+      "position": "Presenter",
+      "url": "https://meetup.com/Develop-Denver",
+      "startDate": "2016-07-01",
+      "endDate": "2016-07-02",
+      "summary": "Asked to present an introduction to home and life automation at Develop Denver, a conference for developer, by developers.",
+      "highlights": [
+        "Presented to an audience of over 100.",
+        "Offered basic automated solutions to water and energy conservation.",
+        "Improved home security through IoT and automation tools."
+      ]
+    },
+    {
+      "organization": "Develop Denver",
+      "position": "Presenter",
+      "url": "https://meetup.com/Develop-Denver",
+      "startDate": "2017-07-01",
+      "endDate": "2017-07-02",
+      "summary": "Popular request for an update to previous presentation that focused on the technical and security aspects of IoT and automation platforms..",
+      "highlights": [
+        "Presented to an audience of over 100.",
+        "IoT protocols, security and mitigating risks.",
+        "Implementing a python based rules engine.",
+        "Comparing the various Voice Assistants available to the public."
+      ]
     }
   ],
   "meta": {
