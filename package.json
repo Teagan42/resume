@@ -1,0 +1,20 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Teagan Glenn's resume in JSONResume format",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teagan42/resume-json.git"
+  },
+  "keywords": [
+    "jsonresume",
+    "resume",
+    "developer"
+  ],
+  "author": "that@teagantotally.rocks",
+  "homepage": "https://github.com/teagan42/resume#readme",
+  "devDependencies": {
+    "jsonresume-theme-eloquent": "^1.3.0",
+    "resume-cli": "^3.0.3"
+  }
+}
