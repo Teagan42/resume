@@ -361,7 +361,8 @@
         "Homebridge",
         "Govee"
       ],
-      "url": "https://github.com/constructorfleet/homebridge-ultimate-govee"
+      "url": "https://github.com/constructorfleet/homebridge-ultimate-govee",
+      "website": "https://github.com/constructorfleet/homebridge-ultimate-govee"
     },
     {
       "name": "ConstructorFleet",
@@ -378,7 +379,8 @@
         "Home-Assistant",
         "Homebridge"
       ],
-      "url": "https://github.com/constructorfleet"
+      "url": "https://github.com/constructorfleet",
+      "website": "https://github.com/constructorfleet"
     },
     {
       "name": "Home-Assistant",
@@ -393,7 +395,8 @@
         "Smart Home",
         "Home-Assistant"
       ],
-      "url": "https://github.com/home-assistant/core"
+      "url": "https://github.com/home-assistant/core",
+      "website": "https://github.com/home-assistant/core"
     },
     {
       "name": "DeepThought - Routing",
@@ -411,7 +414,8 @@
         "Swagger",
         "OpenAPI"
       ],
-      "url": "https://github.com/constructorfleet/Deepthought-Routing"
+      "url": "https://github.com/constructorfleet/Deepthought-Routing",
+      "website": "https://github.com/constructorfleet/Deepthought-Routing"
     },
     {
       "name": "DeepThought",
@@ -427,7 +431,8 @@
         "Self-Validating",
         "Documentation"
       ],
-      "url": "https://github.com/constructorfleet/Deepthought-Schema"
+      "url": "https://github.com/constructorfleet/Deepthought-Schema",
+      "website": "https://github.com/constructorfleet/Deepthought-Schema"
     }
   ],
   "volunteer": [
@@ -435,6 +440,7 @@
       "organization": "Develop Denver",
       "position": "Presenter",
       "url": "https://meetup.com/Develop-Denver",
+      "website": "https://meetup.com/Develop-Denver",
       "startDate": "2016-07-01",
       "endDate": "2016-07-02",
       "summary": "Asked to present an introduction to home and life automation at Develop Denver, a conference for developer, by developers.",
@@ -448,6 +454,7 @@
       "organization": "Develop Denver",
       "position": "Presenter",
       "url": "https://meetup.com/Develop-Denver",
+      "website": "https://meetup.com/Develop-Denver",
       "startDate": "2017-07-01",
       "endDate": "2017-07-02",
       "summary": "Popular request for an update to previous presentation that focused on the technical and security aspects of IoT and automation platforms..",
