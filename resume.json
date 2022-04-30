@@ -352,6 +352,14 @@
         "Infrastructure",
         "Life"
       ]
+    },
+    {
+      "name": "Electronics",
+      "keywords": [
+        "Microcontrollers",
+        "Digital Circuits",
+        "Embedded Software"
+      ]
     }
   ],
   "references": [
