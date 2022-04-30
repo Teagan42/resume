@@ -14,7 +14,7 @@
   "author": "that@teagantotally.rocks",
   "homepage": "https://github.com/teagan42/resume#readme",
   "dependencies": {
-    "jsonresume-theme-eloquent-mod": "4.2.0"
+    "jsonresume-theme-eloquent-mod": "latest"
   },
   "devDependencies": {
     "resume-cli": "3.0.7"
