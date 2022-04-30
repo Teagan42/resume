@@ -343,6 +343,14 @@
       "score": "3.6"
     }
   ],
+  "interests": [
+    {
+      "name": "Automation",
+      "keywords": [
+        "Everything!"
+      ]
+    }
+  ],
   "references": [
     {
       "name": "James Gibson",
