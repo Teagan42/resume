@@ -20,6 +20,18 @@ jobs:
     needs: check_run
     steps:
       - uses: actions/checkout@v2
+      - name: YAML/JSON/XML Converter Action
+        uses: fabasoad/yaml-json-xml-converter-action@v1.0.14
+        id: yaml2json
+        with:
+          path: 'resume.yaml'
+          from: 'yaml'
+          to: 'json'
+      - name: create-json
+        uses: jsdaniell/create-json@1.1.2
+        with:
+          name: resume.json
+          json: ${{ steps.yaml2json.outputs.data }}
       - uses: kelvintaywl/action-jsonresume-export@v1
         name: Export resume as HTML
         with:
