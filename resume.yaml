@@ -461,7 +461,6 @@ interests:
   - name: Automation
     keywords:
       - IoT
-      - Reverse Engineering
       - Infrastructure
       - Life
   - name: Electronics
@@ -469,6 +468,11 @@ interests:
       - Microcontrollers
       - Digital Circuits
       - Embedded Software
+  - name: Reverse Engineering
+    keywords:
+      - APIs
+      - Byte Code
+      - Decompilation
 references:
   - name: James Gibson
     reference: >-
@@ -490,6 +494,35 @@ references:
       contribution to open source. Teagan also is enthralled with automation and
       has taken it upon herself to automate her home and daily life where
       possible.
+  - name: Alan Janis
+    reference: >-
+      Alan Janis Teagan is the kind of engineer who can be intimidating to work with 
+      because of her breadth and depth of knowledge, and ability to pick up new 
+      software, skills, and practices seemingly overnight. However, she is wiling to
+      share and even mentor in these areas which I feel increases her value to her team, 
+      the company, and outside members of any project that she is tasked with. 
+      I know that she sometimes struggles with how her message comes across in conversation,
+      but she is quick to acknowledge a mistake, take it to heart, apologize and take 
+      corrective action. Teagan is a fantastic asset and addition to any team or project,
+      not just because of her skill set, but because of her diligence and experience taking
+      point on difficult projects and tasks, seeing them through to completion. 
+      She has technical mastery of many programming languages, architectures, development 
+      methodologies, and well as significant knowledge of underlying systems 
+      (bare metal, KVM, cloud providers, etc.)
+  - name: Aram Hamper
+    reference: >-
+      Teagan has been a joy to work with. I’ve been on two engagements with her now, and she 
+      consistently brings positive energy. She is intelligent, confident, outspoken, and 
+      opinionated, and I mean those things for the compliment that they are. Teagan is also 
+      humble, caring, kind, and not afraid to admit when she is wrong. She is considerate 
+      of the feelings of others and quick to resolve conflict. Teagan has a passion for 
+      continuous improvement, particularly when it comes to automation. She loves to share 
+      her work with others whenever given a chance. She loves to teach and has a lot of good 
+      things to share. When I expressed a desire to understand programming better, she started 
+      a class for people like me. On the Psyclops Team, she paired with developers (regardless 
+      of the stack) and QAs and brought a wealth of value in her first few days as an employee. 
+      On the JPMC-NAIC automation project, she quickly picked up on abstract concepts she had 
+      previously had little experience with.
 projects:
   - name: Homebridge Ultimate Govee Plugin
     description: Homebridge plugin to support all features of Govee devices.
@@ -594,7 +627,7 @@ volunteer:
       technical and security aspects of IoT and automation platforms..
     highlights:
       - Presented to an audience of over 100.
-      - 'IoT protocols, security and mitigating risks.'
+      - IoT protocols, security and mitigating risks.
       - Implementing a python based rules engine.
       - Comparing the various Voice Assistants available to the public.
 meta:
