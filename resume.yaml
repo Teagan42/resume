@@ -171,6 +171,23 @@ work:
         logic, inventory, and logging requirements. Now used by 11 teams, it
         reduced the support requests to developers from 3 a day to once a week
         or less.
+  - name: KForce - Charter Advanced Technologies
+    company: KForce
+    location: 'Denver, CO'
+    position: Automation Engineer @ Charger Advanced Technologies
+    url: 'https://kforce.com'
+    website: 'http://kforce.com'
+    startDate: '2020-09-21'
+    endDate: ' 2020-12-31'
+    highlights:
+      - >-
+        Implemented a build pipeline using Foreman and AWX to deploy
+        compute and storage resources on edge networks.
+      - >-
+        Deployed infrastructure necessarry to provide VRaaS (Virtual Reality
+        as a Service) and GaaS (Gaming as a Service), allowing customers to
+        purchase accesss to high-end, low-latency hardware from virtually
+        any internet connected device.
   - name: Turnberry Solutions - Comcast Applied AI
     company: Turnberry Solutions
     location: 'Denver, CO'
