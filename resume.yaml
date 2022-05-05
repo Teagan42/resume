@@ -126,6 +126,14 @@ work:
     url: 'https://wwt.com'
     website: 'https://wwt.com'
     startDate: '2021-01-04'
+    summary: >-
+      A Delivery Engineer is a position requiring a deep understanding of 
+      software development patterns and life-cycle, CI/CD pipelines, DevOps
+      tooling and mindset; assigned to projects to provide the team what
+      is necessary to deliver the project. Working directly with developers
+      to remove obstacles, improve throughput, and automating SDLC, as well
+      as designing, implementing, and deploying the infrastructure necessary
+      for the project's success.
     highlights:
       - >-
         A top client, to keep the multi-million dollar per year contract,
@@ -176,12 +184,11 @@ work:
         Inherited an AngularJS v1.6 web application to facilitate training of
         speech recognition
       - >-
-        algorithms that was poorly designed and mostly unusable by the end-users
-        before I was brought on to the team. I was responsible for refactoring
-        the application to facilitate flexibility in data source, domain logic
-        and usability. The feature set of this project is now grown to include
-        natural language processing training and annotations/meta data using a
-        machine learning model developed in-house.
+        I was responsible for refactoring algorithms that were poorly designed
+        or mostly unusable by end-users, to facilitate flexibility in data source, 
+        domain logic and usability. The feature set of this project is now grown 
+        to include natural language processing training and annotations/meta data 
+        using a machine learning model developed in-house.
       - >-
         Created a prototype, using Python 3.7 and Tensorflow 1.12 to demonstrate
         an algorithm for detecting deliveries of all types, including mail, food
