@@ -33,20 +33,20 @@ jobs:
           name: resume.json
           json: ${{ steps.yaml2json.outputs.data }}
       - uses: constructorfleet/action-jsonresume-export@v1.1
+          name: Export resume as PDF
+          with:
+            theme: eloquent-mod
+            resume_filepath: resume.json
+            # modifies the index.html in-place
+            output_format: pdf
+            output_filepath: docs/resume.teagan.glenn.pdf
+      - uses: constructorfleet/action-jsonresume-export@v1.1
         name: Export resume as HTML
         with:
           theme: eloquent-mod
           resume_filepath: resume.json
           # modifies the index.html in-place
           output_filepath: docs/index.html
-      - uses: constructorfleet/action-jsonresume-export@v1.1
-        name: Export resume as PDF
-        with:
-          theme: eloquent-mod
-          resume_filepath: resume.json
-          # modifies the index.html in-place
-          output_format: pdf
-          output_filepath: docs/resume.teagan.glenn.pdf
       - name: Commit published HTML
         id: commit
         run: |
