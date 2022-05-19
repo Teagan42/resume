@@ -14,15 +14,15 @@ basics:
     countryCode: US
     region: Colorado
   summary: >-
-    Teagan's experience in data acquisition, performance testing, power plant
-    modeling, database design and architecture, client-side and server-side
-    applications, and web applications led to her specializing in flexible,
-    scalable application architecture and design patterns. She started to play
-    with home automation as a hobby, which quickly evolved into a passion for
-    all things automation. Automating everything from host provisioning,
-    configuration management, home entertainment, machine learning, even going
-    so far as to automate messaging for friends' birthdays and holidays, earning
-    the title "Queen of Automation."
+    I am a self-proclaimed Engineer of Laziness. A deep passion for electronics, 
+    technology and a burning need to understand how things work drove me to pursue 
+    degrees in Physics, Math and Computer Science. Over the last few years, my interests 
+    have shifted to living by the motto I beat into my junior engineers: the Rule of 
+    Three. I have taken it so far that it has fed into the most wonderfully expensive 
+    hobby and passion: using the “Teagan Method” way of automating home and life: through 
+    Automating Laziness. Dubbed 'Automation Queen', I implement automations around 
+    software development, tooling, CI/CD, hardware provisioning, validation/remediation 
+    of systems, tedious life tasks, and my home.
   profiles:
     - network: LinkedIn
       username: in/Teagan42
@@ -136,7 +136,7 @@ work:
       for the project's success.
     highlights:
       - >-
-        A top client, to keep the multi-million dollar per year contract,
+        A top client, in order to keep the multi-million dollar per year contract,
         requested a verifiable report detailing the interconnections match the
         explicit specifications within 6 weeks. Tasked to me, as one of the few
         who had the skills and knowledge needed. I presented to the client, 5
