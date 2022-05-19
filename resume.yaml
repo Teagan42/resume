@@ -14,15 +14,15 @@ basics:
     countryCode: US
     region: Colorado
   summary: >-
-    Teagan's experience in data acquisition, performance testing, power plant
-    modeling, database design and architecture, client-side and server-side
-    applications, and web applications led to her specializing in flexible,
-    scalable application architecture and design patterns. She started to play
-    with home automation as a hobby, which quickly evolved into a passion for
-    all things automation. Automating everything from host provisioning,
-    configuration management, home entertainment, machine learning, even going
-    so far as to automate messaging for friends' birthdays and holidays, earning
-    the title "Queen of Automation."
+    I am a self-proclaimed Engineer of Laziness. A deep passion for electronics, 
+    technology and a burning need to understand how things work drove me to pursue 
+    degrees in Physics, Math and Computer Science. Over the last few years, my interests 
+    have shifted to living by the motto I beat into my junior engineers: the Rule of 
+    Three. I have taken it so far that it has fed into the most wonderfully expensive 
+    hobby and passion: using the “Teagan Method” way of automating home and life: through 
+    Automating Laziness. Dubbed 'Automation Queen', I implement automations around 
+    software development, tooling, CI/CD, hardware provisioning, validation/remediation 
+    of systems, tedious life tasks, and my home.
   profiles:
     - network: LinkedIn
       username: in/Teagan42
@@ -126,9 +126,17 @@ work:
     url: 'https://wwt.com'
     website: 'https://wwt.com'
     startDate: '2021-01-04'
+    summary: >-
+      A Delivery Engineer is a position requiring a deep understanding of 
+      software development patterns and life-cycle, CI/CD pipelines, DevOps
+      tooling and mindset; assigned to projects to provide the team what
+      is necessary to deliver the project. Working directly with developers
+      to remove obstacles, improve throughput, and automating SDLC, as well
+      as designing, implementing, and deploying the infrastructure necessary
+      for the project's success.
     highlights:
       - >-
-        A top client, to keep the multi-million dollar per year contract,
+        A top client, in order to keep the multi-million dollar per year contract,
         requested a verifiable report detailing the interconnections match the
         explicit specifications within 6 weeks. Tasked to me, as one of the few
         who had the skills and knowledge needed. I presented to the client, 5
@@ -163,6 +171,23 @@ work:
         logic, inventory, and logging requirements. Now used by 11 teams, it
         reduced the support requests to developers from 3 a day to once a week
         or less.
+  - name: KForce - Charter Advanced Technologies
+    company: KForce
+    location: 'Denver, CO'
+    position: Automation Engineer @ Charter Advanced Technologies
+    url: 'https://kforce.com'
+    website: 'http://kforce.com'
+    startDate: '2020-09-21'
+    endDate: ' 2020-12-31'
+    highlights:
+      - >-
+        Implemented a build pipeline using Foreman and AWX to deploy
+        compute and storage resources on edge networks.
+      - >-
+        Deployed infrastructure necessarry to provide VRaaS (Virtual Reality
+        as a Service) and GaaS (Gaming as a Service), allowing customers to
+        purchase accesss to high-end, low-latency hardware from virtually
+        any internet connected device.
   - name: Turnberry Solutions - Comcast Applied AI
     company: Turnberry Solutions
     location: 'Denver, CO'
@@ -176,12 +201,11 @@ work:
         Inherited an AngularJS v1.6 web application to facilitate training of
         speech recognition
       - >-
-        algorithms that was poorly designed and mostly unusable by the end-users
-        before I was brought on to the team. I was responsible for refactoring
-        the application to facilitate flexibility in data source, domain logic
-        and usability. The feature set of this project is now grown to include
-        natural language processing training and annotations/meta data using a
-        machine learning model developed in-house.
+        I was responsible for refactoring algorithms that were poorly designed
+        or mostly unusable by end-users, to facilitate flexibility in data source, 
+        domain logic and usability. The feature set of this project is now grown 
+        to include natural language processing training and annotations/meta data 
+        using a machine learning model developed in-house.
       - >-
         Created a prototype, using Python 3.7 and Tensorflow 1.12 to demonstrate
         an algorithm for detecting deliveries of all types, including mail, food
@@ -496,7 +520,7 @@ references:
       possible.
   - name: Alan Janis
     reference: >-
-      Alan Janis Teagan is the kind of engineer who can be intimidating to work with 
+      Teagan is the kind of engineer who can be intimidating to work with 
       because of her breadth and depth of knowledge, and ability to pick up new 
       software, skills, and practices seemingly overnight. However, she is wiling to
       share and even mentor in these areas which I feel increases her value to her team, 
