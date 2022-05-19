@@ -45,6 +45,7 @@ jobs:
             theme: eloquent-mod
             resume_filepath: resume.json
             # modifies the index.html in-place
+            output_format: pdf
             output_filepath: docs/resume.teagan.glenn.pdf
       - name: Commit published HTML
         id: commit
