@@ -52,6 +52,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git status
           if [ -n "$(git status --porcelain docs/index.html)" ]; then
             git add docs/index.html
             git add docs/resume.teagan.glenn.pdf
