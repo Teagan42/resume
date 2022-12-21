@@ -2,8 +2,8 @@ $schema: 'https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/sche
 basics:
   name: Teagan Glenn
   label: Senior GraphQL Engineer
-  image: ''
-  email: teagan.glenn@icloud.com
+  image: 'teagan.png'
+  email: that@teagantotally.rocks
   phone: (720) 432-5361
   url: 'https://blog.teagantotally.rocks'
   website: 'https://blog.teagantotally.rocks'
