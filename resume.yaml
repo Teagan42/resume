@@ -1,7 +1,7 @@
 $schema: 'https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json'
 basics:
   name: Teagan Glenn
-  label: Senior Automation Engineer
+  label: Senior GraphQL Engineer
   image: ''
   email: teagan.glenn@icloud.com
   phone: (720) 432-5361
@@ -107,6 +107,28 @@ skills:
       - OpenHAB
       - ioBroker
 work:
+  - name: Resideo
+    company: Resideo
+    location: 'Denver, CO'
+    position: Advanced Senior GraphQL Engineer
+    url: 'https://resideo.com'
+    website: 'https://resideo.com'
+    startDate: '2022-06-01'
+    summary: >-
+      Tactical and intentional schema design, along with deep understanding of the 
+      GraphQL SDL, I lead my engineers towards an innovative and novel approach to 
+      domain oriented development that improves the communication from top to bottom.
+      Using schema to increase velocity and vastly reducing the chance of bugs 
+      in releases.
+    highlights:
+      - >-
+        To keep up with the tools and libraries, built out patterns and utilities 
+        which facilitated transitioning our services and data models on to Apollo 
+        Federation v2.
+      - >-
+        Subject matter expert on GraphQL specification, features, capabilities, best 
+        practices responsible for mentoring, demoing, training and guiding teams in 
+        implementation.
   - name: World Wide Technology
     company: World Wide Technology
     location: 'Denver, CO'
@@ -114,6 +136,7 @@ work:
     url: 'https://wwt.com'
     website: 'https://wwt.com'
     startDate: '2021-01-04'
+    endDate: '2022-05-31'
     summary: >-
       A Delivery Engineer is a position requiring a deep understanding of software development patterns and life-cycle, CI/CD pipelines, DevOps tooling, and mindset.
       Delivery Engineers are assigned to teams to provide the development team with what is necessary to deliver the project.
