@@ -40,7 +40,7 @@ jobs:
           # modifies the index.html in-place
           output_format: pdf
           output_filepath: docs/resume.teagan.glenn.pdf
-      - uses: constructorfleet/action-jsonresume-export@v0.1
+      - uses: constructorfleet/action-jsonresume-export@v1.2
         name: Export resume as HTML
         with:
           theme: eloquent-mod
