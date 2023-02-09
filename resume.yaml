@@ -1,4 +1,8 @@
 $schema: 'https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json'
+css: |
+  .content h1 {
+    background-color: blue !important;
+  }
 basics:
   name: Teagan Glenn
   label: Senior GraphQL Engineer
