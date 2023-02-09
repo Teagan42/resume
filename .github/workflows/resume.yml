@@ -32,7 +32,7 @@ jobs:
         with:
           name: resume.json
           json: ${{ steps.yaml2json.outputs.data }}
-      - uses: constructorfleet/action-jsonresume-export@v1.1
+      - uses: constructorfleet/action-jsonresume-export@v1.2
         name: Export resume as PDF
         with:
           theme: eloquent-mod
