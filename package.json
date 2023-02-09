@@ -17,6 +17,6 @@
     "jsonresume-theme-eloquent-mod": "latest"
   },
   "devDependencies": {
-    "resume-cli": "3.0.7"
+    "resume-cli": "3.0.8"
   }
 }
