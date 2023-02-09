@@ -35,7 +35,8 @@ jobs:
       - uses: constructorfleet/action-jsonresume-export@v0.1.0
         name: Export resume as PDF
         with:
-          theme: eloquent-mod
+          #theme: eloquent-mod
+          theme: ./themes/jsonresume-theme-verbum
           resume_filepath: resume.json
           # modifies the index.html in-place
           output_format: pdf
@@ -43,7 +44,8 @@ jobs:
       - uses: constructorfleet/action-jsonresume-export@v0.1.0
         name: Export resume as HTML
         with:
-          theme: eloquent-mod
+          #theme: eloquent-mod
+          theme: ./themes/jsonresume-theme-verbum
           resume_filepath: resume.json
           # modifies the index.html in-place
           output_filepath: docs/index.html
