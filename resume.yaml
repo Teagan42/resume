@@ -125,11 +125,20 @@ work:
       - >-
         To keep up with the tools and libraries, built out patterns and utilities 
         which facilitated transitioning our services and data models on to Apollo 
-        Federation v2.
+        Federation v2 using Apollo Server v4.
       - >-
         Subject matter expert on GraphQL specification, features, capabilities, best 
         practices responsible for mentoring, demoing, training and guiding teams in 
         implementation.
+      - >-
+        Lead a team of 3 engineers in developing new features and leading the company
+        towards the use of best practices.
+      - >-
+        Facilitated the migration of all subgraphs and gateways from NexusJS Apollo Server v2
+        to NestJS using Apollo Server v4 federation 2.3.
+      - >-
+        Implemented patterns of self-validating, self-documenting domain driven data types using
+        GraphQL scalars and type system.
   - name: World Wide Technology
     company: World Wide Technology
     location: 'Denver, CO'
